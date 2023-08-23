@@ -23,8 +23,7 @@ class Grafo:
             if matriz_atual:
                 matrizes.append(matriz_atual)
         return matrizes
-    
-    
+     
 def exibir_menu():
     print("Escolha uma opção:")
     print("1. Verificar se o grafo é conexo")
